@@ -4,7 +4,6 @@ Welcome to your Canva App! 🎉
 
 This is a starting point for your app using your chosen template. The complete documentation for the platform is at [canva.dev/docs/apps](https://www.canva.dev/docs/apps/).
 
-**Note:** This code and documentation assumes some experience with TypeScript and React.
 
 ## Requirements
 
