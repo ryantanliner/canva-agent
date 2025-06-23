@@ -11,13 +11,13 @@
 
 # IDE/Editor files
 .idea
-.vscode/settings.json
-.vscode/launch.json
+.cursor/
+.vscode/
 *.swp
 *.swo
 *~
 
-# SSL certificates
+
 .ssl
 
 # Logs
@@ -33,7 +33,7 @@ pids
 *.seed
 *.pid.lock
 
-# Coverage directory used by tools like istanbul
+
 coverage/
 *.lcov
 
@@ -46,7 +46,7 @@ build/
 .next/
 out/
 
-# Dependencies
+
 node_modules/
 jspm_packages/
 
